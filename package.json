@@ -39,7 +39,7 @@
     "not dead"
   ],
   "description": "<%=description%>",
-  "author": "<%=description%>",
+  "author": "<%=author%>",
   "license": "<%=license%>",
   "private": "<%=private%>"
 }
